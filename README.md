@@ -56,4 +56,4 @@
 
 [Обучение модели + предсказания на test](https://colab.research.google.com/drive/1D_OvWSY1PkdIcg_iy7l0uQnT12_kHBNg?usp=sharing)
 
-[Реализация программы для получения итогового результата]()
+[Загрузка обученной модели + предсказания на test](https://colab.research.google.com/drive/1Bidz0_ExuYCyViNdZibnaxfDbI0L1S4X?usp=sharing)
