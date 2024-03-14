@@ -54,4 +54,6 @@
 
 [Визуализация информации о признаках](https://colab.research.google.com/drive/14M3rvzvZYwIi9mP2itX4I85LZGgiYl6h?usp=sharing)
 
+[Обучение модели + предсказания на test](https://colab.research.google.com/drive/1D_OvWSY1PkdIcg_iy7l0uQnT12_kHBNg?usp=sharing)
+
 [Реализация программы для получения итогового результата]()
