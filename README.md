@@ -23,7 +23,7 @@
 * [Никита Юрьев](https://github.com/Serfetto) - Backend Python Developer
 * [Артур Артиков](https://github.com/ArturArtikov) - Data Scientist
 * [Алексей Безднин](https://github.com/BezdninAlex) - Data Analyst
-* [Ишмаева Александра]() - Backend Python Developer
+* [Ишмаева Александра](https://github.com/alexandraishmaeva) - Backend Python Developer
 
 
 
